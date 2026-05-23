@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Steohen Joshua Alviar
 
-<!--
-**sjsalviar/sjsalviar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data operations and automation developer based in the Philippines.
+I build Google Workspace automations that replace manual data work.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data cleaning** — systematic QC pipelines for messy datasets
+- **Workflow automation** — Google Apps Script (Forms → Sheets → Docs → Gmail)
+- **Reporting** — automated summaries triggered on schedule or submission
+- **Stage 4 in progress** — Python, Pandas, SQL
+
+## Tools
+
+Google Apps Script Google Sheets JavaScript Python (learning)
+
+## Currently building
+
+Completing Stage 2 of a structured data operations curriculum.
+Next: Zapier/Make integrations and Airtable automation (Stage 3).
+
+💼 Available for data entry, cleaning, and automation freelance work.
+📫 Reach me at: sjsalviar@gmail.com
