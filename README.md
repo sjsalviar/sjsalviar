@@ -1,4 +1,4 @@
-# Hi, I'm Steohen Joshua Alviar
+# Hi, I'm Stephen Joshua Alviar
 
 Data operations and automation developer based in the Philippines.
 I build Google Workspace automations that replace manual data work.
